@@ -9,6 +9,7 @@
 - [Technology Used](#technology-used)
 - [Modules and Functional Requirements](#modules-and-functional-requirements)
 - [File Structure](#file-structure)
+- [Demo](#demo)
 - [Conclusion](#conclusion)
 
 ## Introduction
