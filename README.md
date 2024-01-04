@@ -1,5 +1,5 @@
 
-# Hospital Booking Android Application
+# Hospital Appointment Booking Android Application
 
 ## Table of Contents
 
