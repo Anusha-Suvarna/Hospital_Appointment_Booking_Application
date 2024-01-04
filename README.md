@@ -95,6 +95,9 @@ Hospital_Appointment_Booking_Application/
 
 ```
 
+## Demo
+[Watch the screen-recorded video of the App here](https://www.youtube.com/watch?v=iMtXkyUhc8w)
+
 ## Conclusion
 
 The Hospital Booking App provides a comprehensive solution catering to patients, doctors, and administrators. Its user-friendly interface simplifies appointment bookings, lab tests, and access to health articles. The app ensures a seamless healthcare experience through features like Admin Dashboard, Notifications, Search Functionality, Feedback and Ratings, Secure Payment Integration, and Appointment History. Leveraging technology, the app enhances accessibility, allowing users to manage appointments, access lab tests, and stay informed about health topics. It represents a significant step forward in improving healthcare accessibility and communication.
