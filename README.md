@@ -71,6 +71,26 @@ The Hospital Booking Application employs the following technologies:
 
 11. **Appointment History:**
     - Patients can access their appointment history, including past appointments and lab tests.
+   
+## File Structure
+HospitalBookingApp/
+│
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   ├── [Java files]
+│   │   │   ├── res/
+│   │   │   │   ├── layout/
+│   │   │   │   │   ├── [XML layout files]
+│   │   │   │   ├── values/
+│   │   │   │   │   ├── [Resource files]
+│   │   │   │   └── ...
+│   │   └── ...
+│   └── ...
+└── ...
+
+
 
 ## Conclusion
 
