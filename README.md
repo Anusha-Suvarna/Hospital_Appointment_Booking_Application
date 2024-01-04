@@ -76,7 +76,7 @@ The Hospital Booking Application employs the following technologies:
 ## File Structure
 
 ```
-HospitalBookingApp/
+Hospital_Appointment_Booking_Application/
 │
 ├── app/
 │   ├── src/
