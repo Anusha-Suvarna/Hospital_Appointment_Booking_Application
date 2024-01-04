@@ -8,6 +8,7 @@
 - [Objectives](#objectives)
 - [Technology Used](#technology-used)
 - [Modules and Functional Requirements](#modules-and-functional-requirements)
+- [File Structure](#file-structure)
 - [Conclusion](#conclusion)
 
 ## Introduction
@@ -71,8 +72,10 @@ The Hospital Booking Application employs the following technologies:
 
 11. **Appointment History:**
     - Patients can access their appointment history, including past appointments and lab tests.
-   
+
 ## File Structure
+
+```
 HospitalBookingApp/
 │
 ├── app/
@@ -90,8 +93,9 @@ HospitalBookingApp/
 │   └── ...
 └── ...
 
-
+```
 
 ## Conclusion
 
 The Hospital Booking App provides a comprehensive solution catering to patients, doctors, and administrators. Its user-friendly interface simplifies appointment bookings, lab tests, and access to health articles. The app ensures a seamless healthcare experience through features like Admin Dashboard, Notifications, Search Functionality, Feedback and Ratings, Secure Payment Integration, and Appointment History. Leveraging technology, the app enhances accessibility, allowing users to manage appointments, access lab tests, and stay informed about health topics. It represents a significant step forward in improving healthcare accessibility and communication.
+
